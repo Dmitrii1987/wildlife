@@ -1,7 +1,11 @@
 .header {
     width: 100vw;
+    position: sticky;
+    top: 0;
 }
 
 .wrapper {
-    
+    max-width: 1200px;
+    display: flex;
+    margin: 0 auto;
 }
