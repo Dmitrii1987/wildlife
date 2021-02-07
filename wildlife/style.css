@@ -9,3 +9,18 @@
     display: flex;
     margin: 0 auto;
 }
+
+.header-logo {
+    display: flex;
+    color: red;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+.header-logo-title {
+    display: flex;
+}
