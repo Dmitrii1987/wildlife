@@ -47,8 +47,14 @@ body {
 .hero-wrapper {
     margin-left: 120px;
     max-width: 1200px;
+    display: flex;
 }
 
+.survival {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .hero-title {
 
