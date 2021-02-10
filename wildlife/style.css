@@ -5,7 +5,6 @@ body {
 
 .header {
     width: 1440px;
-    position: sticky;
     top: 0;
 }
 
@@ -45,10 +44,30 @@ body {
     align-items: center;
 }
 
-.wrapper-of-main {
+.hero-wrapper {
     margin-left: 120px;
     max-width: 1200px;
 }
+
+
+.hero-title {
+
+}
+
+.hero-text {
+
+}
+
+.main-wrapper {
+    margin-left: 120px;
+    max-width: 1200px;
+}
+
+
+
+
+
+
 
 .wrapper-of-footer {
     margin-left: 120px;
