@@ -69,7 +69,9 @@ body {
     max-width: 1200px;
 }
 
-
+footer {
+    background-image: url(footerBackground.png);
+}
 
 
 
@@ -81,7 +83,6 @@ body {
     display: flex;
     margin: 0 auto;
     justify-content: space-between;
-    background-image: url(footerBackground.png);
 }
 
 .footer-logo {
