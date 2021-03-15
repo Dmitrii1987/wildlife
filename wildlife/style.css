@@ -63,19 +63,16 @@ main {
     background-color: #CCCCCC;
 }
 
+.pictures {
+    justify-content: space-around;
+}
+
 .survival {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-.hero-title {
-
-}
-
-.hero-text {
-
-}
 
 .main-wrapper {
     margin-left: 120px;
