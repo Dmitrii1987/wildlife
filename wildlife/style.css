@@ -8,6 +8,11 @@ body {
     top: 0;
 }
 
+.fox-picture {
+    background-image: url(/wildlife/assets/FoxBackground.png);
+
+}
+
 .wrapper {
     max-width: 1200px;
     margin-left: 120px;
@@ -18,7 +23,7 @@ body {
 
 .header-logo {
     display: flex;
-    color: red;
+    color: #F7F7F7
     font-family: Roboto;
     font-size: 32px;
     line-height: 60px;
@@ -70,7 +75,7 @@ body {
 }
 
 footer {
-    background-image: url(footerBackground.png);
+    background-image: url(/wildlife/assets/footerBackground.png);
 }
 
 
@@ -101,9 +106,13 @@ footer {
 
 .footer-menu-list {
     display: flex;
-    justify-content: space-around;
     width: 100%;
     margin: 0;
     padding: 0;
     list-style-type: none;
+    justify-content: space-around;
 }
+
+.footer-menu-list-item {
+    display: flex;
+    align-items: center;
