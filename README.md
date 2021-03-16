@@ -1,2 +1,2 @@
 # wildlife
-https://dmitrii1987.github.io/woldlife/
+https://dmitrii1987.github.io/wildlife/
